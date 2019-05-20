@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sample Words</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">word</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">word not saved because it is empty</string>
+    <string name="clear_all_data">clear all data</string>
+    <string name="delete_word_preamble">deleting</string>
+    <string name="clear_data_toast_text">clear the data now</string>
+    <string name="no_word">no word</string>
+    <string name="unable_to_update">unable to update the word</string>
+</resources>
